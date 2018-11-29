@@ -1,0 +1,11 @@
+#Dependencies
+node_modules
+package-lock.json
+
+#Public
+dist/
+
+#Misc
+.DS_STORE
+.vscode
+npm-debug.log
